@@ -1,5 +1,5 @@
 [
-  ["Neurodevelopmental Disorders", "", ""],
+  ["Neurodevelopmental Disorders", "-", ""],
 
   ["Intellectual Developmental Disorders", "", ""],
   ["Intellectual Developmental Disorder (Intellectual Disability)", "37", "123"],
@@ -40,7 +40,7 @@
   ["Unspecified Neurodevelopmental Disorder", "99", "123"],
 
 
-  ["Schizophrenia Spectrum and Other Psychotic Disorders", "", ""],
+  ["Schizophrenia Spectrum and Other Psychotic Disorders", "-", ""],
   ["Schizotypal (Personality) Disorder ", "104", "123"],
   ["Delusional Disorder", "104", "123"],
   ["Brief Psychotic Disorder", "108", "123"],
@@ -55,7 +55,7 @@
   ["Unspecified Schizophrenia Spectrum and Other Psychotic Disorder", "138", "123"],
 
 
-  ["Bipolar and Related Disorders", "", ""],
+  ["Bipolar and Related Disorders", "-", ""],
   ["Bipolar I Disorder", "139", "123"],
   ["Bipolar II Disorder", "150", "123"],
   ["Cyclothymic disorder", "159", "123"],
@@ -65,7 +65,7 @@
   ["Unspecified Mood Disorder", "169", "123"],
 
   
-  ["Depressive Disorders", "", ""],
+  ["Depressive Disorders", "-", ""],
   ["Disruptive Mood Dysregulation Disorder", "178", "123"],
   ["Major Depressive Disorder", "183", "123"],
   ["Persistent Depressive Disorder", "193", "123"],
@@ -77,7 +77,7 @@
   ["Unspecified Mood Disorder", "210", "123"],
 
 
-  ["Anxiety Disorders", "", ""],
+  ["Anxiety Disorders", "-", ""],
   ["Separation Anxiety Disorder", "217", "123"],
   ["Selective Mutism", "222", "123"],
   ["Specific Phobia", "224", "123"],
@@ -92,7 +92,7 @@
   ["Unspecified Anxiety Disorder", "261", "123"],
 
 
-  ["Obsessive-Compulsive and Related Disorders", "", ""],
+  ["Obsessive-Compulsive and Related Disorders", "-", ""],
   ["Obsessive-Compulsive Disorder", "265", "123"],
   ["Body Dysmorphic Disorder", "271", "123"],
   ["Hoarding Disorder", "277", "123"],
@@ -103,7 +103,7 @@
   ["Unspecified Obsessive-Compulsive and Related Disorder", "294", "123"],
 
 
-  ["Trauma- and Stressor-Related Disorders", "", ""],
+  ["Trauma- and Stressor-Related Disorders", "-", ""],
   ["Reactive Attachment Disorder", "295", "123"],
   ["Disinhibited Social Engagement Disorder", "298", "123"],
   ["Posttraumatic Stress Disorder", "301", "123"],
@@ -114,7 +114,7 @@
   ["Unspecified Trauma- and Stressor-Related Disorder", "328", "123"],
 
 
-  ["Dissociative Disorders", "", ""],
+  ["Dissociative Disorders", "-", ""],
   ["Dissociative Identity Disorder", "330", "123"],
   ["Dissociative Amnesia", "337", "123"],
   ["Depersonalization/Derealization Disorder", "343", "123"],
@@ -122,7 +122,7 @@
   ["Unspecified Dissociative Disorder", "348", "123"],
 
 
-  ["Somatic Symptom and Related Disorders", "", ""],
+  ["Somatic Symptom and Related Disorders", "-", ""],
   ["Somatic Symptom Disorder", "351", "123"],
   ["Illness Anxiety Disorder", "357", "123"],
   ["Functional Neurological Symptom Disorder (Conversion Disorder)", "360", "123"],
@@ -132,7 +132,7 @@
   ["Unspecified Somatic Symptom and Related Disorder", "370", "123"],
 
 
-  ["Feeding and Eating Disorders", "", ""],
+  ["Feeding and Eating Disorders", "-", ""],
   ["Pica", "371", "123"],
   ["Rumination Disorder", "374", "123"],
   ["Avoidant/Restrictive Food Intake Disorder", "376", "123"],
@@ -143,14 +143,14 @@
   ["Unspecified Feeding or Eating Disorder", "397", "123"],
 
 
-  ["Elimination Disorders", "", ""],
+  ["Elimination Disorders", "-", ""],
   ["Enuresis", "399", "123"],
   ["Encopresis", "402", "123"],
   ["Other Specified Elimination Disorder", "405", "123"],
   ["Unspecified Elimination Disorder", "405", "123"],
 
 
-  ["Sleep-Wake Disorders", "", ""],
+  ["Sleep-Wake Disorders", "-", ""],
   ["Insomnia Disorder", "409", "123"],
   ["Hypersomnolence Disorder", "417", "123"],
   ["Narcolepsy", "422", "123"],
@@ -172,6 +172,8 @@
   ["Nightmare Disorder", "457", "123"],
   ["Rapid Eye Movement Sleep Behavior Disorder", "461", "123"],
 
+  ["", "", ""],
+
   ["Restless Legs Syndrome", "464", "123"],
   ["Substance/Medication-Induced Sleep Disorder", "468", "123"],
   ["Other Specified Insomnia Disorder", "475", "123"],
@@ -182,7 +184,7 @@
   ["Unspecified Sleep-Wake Disorder", "476", "123"],
 
 
-  ["Sexual Dysfunctions", "", ""],
+  ["Sexual Dysfunctions", "-", ""],
   ["Delayed Ejaculation", "478", "123"],
   ["Erectile Disorder", "478", "123"],
   ["Female Orgasmic Disorder", "485", "123"],
@@ -195,13 +197,13 @@
   ["Unspecified Sexual Dysfunction", "509", "123"],
 
 
-  ["Gender Dysphoria", "", ""],
+  ["Gender Dysphoria", "-", ""],
   ["Gender Dysphoria", "512", "123"],
   ["Other Specified Gender Dysphoria", "520", "123"],
   ["Unspecified Gender Dysphoria", "520", "123"],
 
 
-  ["Disruptive, Impulse-Control, and Conduct Disorders", "", ""],
+  ["Disruptive, Impulse-Control, and Conduct Disorders", "-", ""],
   ["Oppositional Defiant Disorder", "522", "123"],
   ["Intermittent Explosive Disorder", "527", "123"],
   ["Conduct Disorder", "530", "123"],
@@ -211,12 +213,9 @@
   ["Other Specified Disruptive, Impulse-Control, and Conduct Disorder", "541", "123"],
   ["Unspecified Disruptive, Impulse-Control, and Conduct Di", "541", "123"],
 
-  ["Substance-Related and Addictive Disorders", "", ""],
-
+  ["Substance-Related and Addictive Disorders", "-", ""],
 
   ["SUBSTANCE-RELATED DISORDERS", "", ""],
-
-  ["Substance-Related Disorders", "", "123"],
 
   ["Alcohol Related Disorders", "", ""],
   ["Alcohol Use Disorder", "553", "123"],
@@ -280,7 +279,7 @@
   ["Gambling Disorder", "100", "123"],
 
 
-  ["Neurocognitive Disorders", "", ""],
+  ["Neurocognitive Disorders", "-", ""],
 
   ["Delirium", "672", "123"],
   ["Other Specified Delirium", "678", "123"],
@@ -301,11 +300,13 @@
   ["Major or Mild Neurocognitive Disorder Due to Huntington's Disease", "726", "123"],
   ["Major or Mild Neurocognitive Disorder Due to Another Medical Condition", "729", "123"],
   ["Major or Mild Neurocognitive Disorder Due to Multiple Etiologies", "731", "123"],
+  
+  ["", "", ""],
 
   ["Unspecified Neurocognitive Disorder", "732", "123"],
 
 
-  ["Personality Disorders", "", ""],
+  ["Personality Disorders", "-", ""],
 
   ["Cluster A Personality Disorders", "", ""],
   ["Paranoid Personality Disorder", "737", "123"],
@@ -328,7 +329,7 @@
   ["Other Specified Personality Disorder", "778", "123"],
   ["Unspecified Personality Disorder", "778", "123"],
 
-  ["Paraphilic Disorders", "", ""],
+  ["Paraphilic Disorders", "-", ""],
   ["Voyeuristic Disorder", "780", "123"],
   ["Exhibitionistic Disorder", "783", "123"],
   ["Frotteuristic Disorder", "785", "123"],
@@ -341,7 +342,7 @@
   ["Unspecified Paraphilic Disorder", "801", "123"],
 
 
-  ["Other Mental Disorders and Additional Codes", "", ""],
+  ["Other Mental Disorders and Additional Codes", "-", ""],
   ["Other Specified Mental Disorder Due to Another Medical Condition", "803", "123"],
   ["Unspecified Mental Disorder Due to Another Medical Condition", "804", "123"],
   ["Other Specified Mental Disorder", "804", "123"],
@@ -349,7 +350,7 @@
   ["No Diagnosis or Condition", "805", "123"],
 
 
-  ["Medication-Induced Movement Disorders and Other Adverse Effects of Medication", "", ""],
+  ["Medication-Induced Movement Disorders and Other Adverse Effects of Medication", "-", ""],
   ["Medication-Induced Parkinsonism", "807", "123"],
   ["Neuroleptic Malignant Syndrome", "810", "123"],
   ["Medication-Induced Acute Dystonia", "812", "123"],
@@ -363,7 +364,7 @@
   ["Other Adverse Effect of Medication", "819", "123"],
 
 
-  ["Other Conditions That May Be a Focus of Clinical Attention", "", ""],
+  ["Other Conditions That May Be a Focus of Clinical Attention", "-", ""],
   ["Suicidal Behavior and Nonsuicidal Self-Injury", "822", "123"],
   ["Abuse and Neglect", "822", "123"],
   ["Relational problems", "828", "123"],
